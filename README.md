@@ -88,7 +88,7 @@ This project is a University Management System with three user panels: Admin, Fa
 
 ## Watch Video Tutorial
 
-[![Watch Video](https://github.com/hm-abdus-salam/projects_snapshots/blob/main/abdus-salam-ums/thumbnail.png?raw=true "Play")](https://www.youtube.com/shorts/DfTuu9X0qmI)
+[![Watch Video](https://github.com/hm-abdus-salam/projects_snapshots/blob/main/abdus-salam-ums/demo.png?raw=true "Play")](https://www.youtube.com/shorts/DfTuu9X0qmI)
 
 
 ## Thank you for reading
