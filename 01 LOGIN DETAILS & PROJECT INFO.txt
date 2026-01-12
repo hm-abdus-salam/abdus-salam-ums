@@ -1,0 +1,18 @@
+**Database Name: ums**
+
+
+**Recommended PHP Version 5.6.3, 7.4.12**
+
+
+**Admin Login Details**
+
+Username: abdud salam
+Password: 123
+
+**Faculty Login Details**
+
+Username: sadman
+Password: sadman
+
+Username: safi
+Password: safi
