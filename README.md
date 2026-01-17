@@ -102,15 +102,22 @@ When the abdus-salam-ums_home project is used alongside this project, it provide
 
 
 This project was completed by three of us as part of a university course.
+
 Course Name: SOFTWARE DEVELOPMENT (IV) & DBMS SESSIONAL
+
 Department: Computer Science & Engineering (CSE)
+
 Khulna Khan Bahadur Ahsanullah University (KKBAU)
+
+
 
 HM Abdus Salam (Team Leader)
 
 Nawshin Rahman
 
 Md. Hasan Sardar
+
+
 
 
 ## Thank you for reading
