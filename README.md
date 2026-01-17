@@ -94,6 +94,11 @@ This project is a University Management System with three user panels: Admin, Fa
 ## Thank you for reading
 
 ![CSE](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNldnl3Mmw4YWVhajJtdjQzdXVucjF1bTNnYWxqcGE0cTVzMjEyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif?raw=true "Thank You")
-# abdus-salam-ums_home
-# abdus-salam-ums_home
+
+This project is related to the hm-abdus-salam project. If you wish, you can use the hm-abdus-salam project together with this one.
+
+The project is available at the link : https://github.com/hm-abdus-salam/abdus-salam-ums_home
+
+When the hm-abdus-salam project is used alongside this project, it provides a well-organized and visually appealing homepage. From that homepage, users can easily enter and access this project or website.
+
 # abdus-salam-ums
