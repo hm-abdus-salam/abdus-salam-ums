@@ -91,7 +91,7 @@ This project is a University Management System with three user panels: Admin, Fa
 [![Watch Video](https://github.com/hm-abdus-salam/abdus-salam-ums/blob/main/img/demo.png?raw=true "Play")](https://www.youtube.com/shorts/DfTuu9X0qmI)
 
 
-
+## At Last
 
 This project is related to the abdus-salam-ums_home project. If you wish, you can use the abdus-salam-ums_home project together with this one.
 
@@ -100,6 +100,7 @@ The project is available at the link : https://github.com/hm-abdus-salam/abdus-s
 When the abdus-salam-ums_home project is used alongside this project, it provides a well-organized and visually appealing homepage. From that homepage, users can easily enter and access this project or website.
 
 
+## About Us
 
 This project was completed by three of us as part of a university course.
 
@@ -116,6 +117,8 @@ HM Abdus Salam (Team Leader)
 Nawshin Rahman
 
 Md. Hasan Sardar
+
+Email: h.m.a.salam.r@gmail.com
 
 
 
