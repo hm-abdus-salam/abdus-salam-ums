@@ -93,11 +93,11 @@ This project is a University Management System with three user panels: Admin, Fa
 
 
 
-This project is related to the hm-abdus-salam project. If you wish, you can use the hm-abdus-salam project together with this one.
+This project is related to the abdus-salam-ums_home project. If you wish, you can use the abdus-salam-ums_home project together with this one.
 
 The project is available at the link : https://github.com/hm-abdus-salam/abdus-salam-ums_home
 
-When the hm-abdus-salam project is used alongside this project, it provides a well-organized and visually appealing homepage. From that homepage, users can easily enter and access this project or website.
+When the abdus-salam-ums_home project is used alongside this project, it provides a well-organized and visually appealing homepage. From that homepage, users can easily enter and access this project or website.
 
 
 
